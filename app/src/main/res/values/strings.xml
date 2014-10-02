@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="this_is_activity_view">this is activity view!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="title_activity_net_work_alert_dialog_fragment">NetWorkAlertDialogFragment</string>
+
+</resources>
